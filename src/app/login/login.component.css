@@ -1,0 +1,28 @@
+.body{
+
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background-color:rgb(119, 119, 119)
+
+}
+.login{
+
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+}
+.inputs{
+    font-style: italic;
+    font-size: large;
+
+}
+.ancho{
+    width: 60%;
+    font-style: italic;
+    font-size: large;
+    background-color:aquamarine
+
+
+}
